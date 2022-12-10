@@ -10,6 +10,7 @@ Dokumentacja JavaScript dla postman:
 https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/
 
 Workspace z odpowiedziami na popularne pytania w postmanie. W środku są zawarte kolekcje z przykładowymi requestami
+
 https://www.postman.com/postman/workspace/postman-answers
 
 ### Zmienne w oostmanie
