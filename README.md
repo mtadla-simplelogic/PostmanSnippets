@@ -13,6 +13,12 @@ Workspace z odpowiedziami na popularne pytania w postmanie. W środku są zawart
 
 https://www.postman.com/postman/workspace/postman-answers
 
+
+Dynami variablas -> np tworzenie danych losowych
+
+https://learning.postman.com/docs/writing-scripts/script-references/variables-list/
+
+
 ### Zmienne w oostmanie
 
 Tworzenie zmiennej / zmiennej globalnej / zmiennej środowiskowej / zmiennej w kolekcji
