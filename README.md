@@ -13,6 +13,10 @@ Workspace z odpowiedziami na popularne pytania w postmanie. W środku są zawart
 
 https://www.postman.com/postman/workspace/postman-answers
 
+Dokumentacja trello
+
+https://developer.atlassian.com/cloud/trello/rest/api-group-actions/
+
 
 Dynami variablas -> np tworzenie danych losowych
 
