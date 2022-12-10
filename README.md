@@ -24,6 +24,12 @@ Instalacja postman CLI dla windows
 https://learning.postman.com/docs/postman-cli/postman-cli-installation/#windows-installation
 
 
+Uruchamianie za pomocą postman CLI
+
+https://learning.postman.com/docs/postman-cli/postman-cli-options/
+
+
+
 ### Zmienne w oostmanie
 
 Tworzenie zmiennej / zmiennej globalnej / zmiennej środowiskowej / zmiennej w kolekcji
